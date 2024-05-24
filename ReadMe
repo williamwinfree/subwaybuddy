@@ -1,0 +1,37 @@
+ReadMe
+
+Packages to install
+
+sudo apt-get install git
+sudo apt-get install libavformat-dev
+sudo apt-get install graphicsmagick-libmagick-dev-compat
+sudo apt-get install libswscale-dev
+sudo apt install python3-pip
+
+
+sudo pip3 install schedule --break-system-packages
+sudo pip3 install gtfs-realtime-bindings --break-system-packages
+sudo pip3 install protobuf3-to-dict --break-system-packages
+sudo pip3 install pandas --break-system-packages
+sudo pip3 install pillow --break-system-packages
+
+Updating RPI Matrix Lib
+
+curl https://raw.githubusercontent.com/adafruit/Raspberry-Pi-Installer-Scripts/master/rgb-matrix.sh >rgb-matrix.sh
+sudo bash rgb-matrix.sh
+	-PICK: Adafruit Bonnet or AdaFruit Hat w/ RTC
+	-Convenience or Quality (Quality if Soldered)
+
+In /rpi-rgb-led-matrix:
+make all
+
+In /rpi-rgb-led-matrix/utils:
+make all
+
+Text Scroller Test:
+sudo ./text-scroller -f ../fonts/9x18.bdf -C255,0,0 --led-rows=32 --led-cols=64 --led-gpio-mapping=adafruit-hat --led-pixel-mapper="Rotate:180" "Hi Mom"
+
+
+Links:
+https://learn.adafruit.com/adafruit-rgb-matrix-bonnet-for-raspberry-pi/driving-matrices
+https://github.com/hzeller/rpi-rgb-led-matrix

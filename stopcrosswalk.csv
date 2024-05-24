@@ -1,0 +1,478 @@
+Markx,StationLines,subway,BannerFileName,TrainsbyStopID,Boro,StopID
+,1 Av - L,1 Av,test,L,Manhattan,L06N
+,103 St - 1,103 St,Undefined,1,Manhattan,119N
+,103 St - 6,103 St,Pending,6,Manhattan,624N
+,103 St - BC,103 St,Pending,BC,Manhattan,A18N
+,103 St-Corona Plaza - 7,103 St-Corona Plaza,Undefined,7,Queens,706N
+,104 St - A,104 St,Undefined,A,Queens,A63N
+,104 St - JZ,104 St,Undefined,JZ,Queens,J14N
+,110 St - 6,110 St,Undefined,6,Manhattan,623N
+,111 St - 7,111 St,Undefined,7,Queens,705N
+,111 St - A,111 St,Undefined,A,Queens,A64N
+,111 St - J,111 St,Undefined,J,Queens,J13N
+,116 St - 23,116 St,Undefined,23,Manhattan,226N
+,116 St - 6,116 St,Undefined,6,Manhattan,622N
+,116 St - BC,116 St,Undefined,BC,Manhattan,A16N
+,116 St-Columbia University - 1,116 St-Columbia University,Undefined,1,Manhattan,117N
+,121 St - JZ,121 St,Undefined,JZ,Queens,J12N
+,125 St - 1,125 St,Undefined,1,Manhattan,116N
+,125 St - 23,125 St,Undefined,23,Manhattan,225N
+,125 St - 456,125 St,Undefined,456,Manhattan,621N
+,125 St - ABCD,125 St,Undefined,ABCD,Manhattan,A15N
+,135 St - 23,135 St,Undefined,23,Manhattan,224N
+,135 St - BC,135 St,Undefined,BC,Manhattan,A14N
+,137 St-City College - 1,137 St-City College,Undefined,1,Manhattan,115N
+,138 St-Grand Concourse - 45,138 St-Grand Concourse,Undefined,45,The Bronx,416N
+,14 St - 123,14 St,Undefined,123,Manhattan,132N
+,14 St - ACE,14 St,Undefined,ACE,Manhattan,A31N
+,14 St - FM,14 St,Undefined,FM,Manhattan,D19N
+,14 St-Union Sq - 456,14 St-Union Sq,14 St-Union Sq,456,Manhattan,635N
+,14 St-Union Sq - L,14 St-Union Sq,14 St-Union Sq,L,Manhattan,L03N
+,14 St-Union Sq - NQRW,14 St-Union Sq,14 St-Union Sq,NQRW,Manhattan,R20N
+,145 St - 123,145 St,Undefined,123,Manhattan,302N
+,145 St - 123,145 St,Undefined,123,Manhattan,114N
+,145 St - BDAC,145 St,Undefined,BDAC,Manhattan,D13N
+,145 St - BDAC,145 St,Undefined,BDAC,Manhattan,A12N
+,149 St-Grand Concourse - 245,149 St-Grand Concourse,Undefined,245,The Bronx,222N
+,149 St-Grand Concourse - 245,149 St-Grand Concourse,Undefined,245,The Bronx,415N
+,15 St-Prospect Park - FG,15 St-Prospect Park,Undefined,FG,Brooklyn,F25N
+,155 St - BDAC,155 St,Undefined,BDAC,Manhattan,D12N
+,155 St - C,155 St,Undefined,C,Manhattan,A11N
+,157 St - 1,157 St,Undefined,1,Manhattan,113N
+,161 St-Yankee Stadium - 4BD,161 St-Yankee Stadium,Undefined,4BD,The Bronx,414N
+,161 St-Yankee Stadium - 4BD,161 St-Yankee Stadium,Undefined,4BD,The Bronx,D11N
+,163 St-Amsterdam Av - C,163 St-Amsterdam Av,Undefined,C,Manhattan,A10N
+,167 St - 4BD,167 St,Undefined,4BD,The Bronx,413N
+,167 St - 4BD,167 St,Undefined,4BD,The Bronx,D10N
+,168 St - AC,168 St,Undefined,AC,Manhattan,A09N
+,168 St-Washington Hts - 1,168 St-Washington Hts,Undefined,1,Manhattan,112N
+,169 St - F,169 St,Undefined,F,Queens,F02N
+,170 St - 4BD,170 St,Undefined,4BD,The Bronx,D09N
+,170 St - 4BD,170 St,Undefined,4BD,The Bronx,412N
+,174 St - 25,174 St,Undefined,25,The Bronx,215N
+,174-175 Sts - BD,174-175 Sts,Undefined,BD,The Bronx,D08N
+,175 St - A,175 St,Undefined,A,Manhattan,A07N
+,176 St - 4,176 St,Undefined,4,The Bronx,410N
+,18 Av - DF,18 Av,Undefined,DF,Brooklyn,B19N
+,18 Av - N,18 Av,Undefined,N,Brooklyn,N05N
+,18 St - 1,18 St,Undefined,1,Manhattan,131N
+,181 St - 1,181 St,Undefined,1,Manhattan,111N
+,181 St - A,181 St,Undefined,A,Manhattan,A06N
+,182-183 Sts - BD,182-183 Sts,Undefined,BD,The Bronx,D06N
+,183 St - 4,183 St,Undefined,4,The Bronx,408N
+,190 St - A,190 St,Undefined,A,Manhattan,A05N
+,191 St - 1,191 St,Undefined,1,Manhattan,110N
+,2 Av - F,2 Av,Undefined,F,Manhattan,F14N
+,20 Av - DF,20 Av,Undefined,DF,Brooklyn,B20N
+,20 Av - N,20 Av,Undefined,N,Brooklyn,N06N
+,207 St - 1,207 St,Undefined,1,Manhattan,108N
+,21 St - G,21 St,Undefined,G,Queens,G24N
+,21 St-Queensbridge - F,21 St-Queensbridge,Undefined,F,Queens,B04N
+,215 St - 1,215 St,Undefined,1,Manhattan,107N
+,219 St - 25,219 St,Undefined,25,The Bronx,207N
+,225 St - 25,225 St,Undefined,25,The Bronx,206N
+,23 St - 1,23 St,Undefined,1,Manhattan,130N
+,23 St - 6,23 St,Undefined,6,Manhattan,634N
+,23 St - CE,23 St,Undefined,CE,Manhattan,A30N
+,23 St - FM,23 St,Undefined,FM,Manhattan,D18N
+,23 St - RW,23 St,Undefined,RW,Manhattan,R19N
+,231 St - 1,231 St,Undefined,1,The Bronx,104N
+,233 St - 25,233 St,Undefined,25,The Bronx,205N
+,238 St - 1,238 St,Undefined,1,The Bronx,103N
+,25 Av - D,25 Av,Undefined,D,Brooklyn,B22N
+,25 St - R,25 St,Undefined,R,Brooklyn,R35N
+,28 St - 1,28 St,Undefined,1,Manhattan,129N
+,28 St - 6,28 St,Undefined,6,Manhattan,633N
+,28 St - RW,28 St,Undefined,RW,Manhattan,R18N
+,3 Av - L,3 Av,Undefined,L,Manhattan,L05N
+,3 Av-138 St - x,3 Av-138 St,Undefined,x,The Bronx,619N
+,3 Av-149 St - 25,3 Av-149 St,Undefined,25,The Bronx,221N
+,3 Av-149 St - x,3 Av-149 St,Undefined,x,The Bronx,619N
+,30 Av - NW,30 Av,Undefined,NW,Queens,R04N
+,33 St - 6,33 St,33 St,6,Manhattan,632N
+,33 St-Rawson St - 7,33 St-Rawson St,Undefined,7,Queens,716N
+,34 St-Herald Sq - BDFM,34 St-Herald Sq,Undefined,BDFM,Manhattan,D17N
+,34 St-Herald Sq - NQRW,34 St-Herald Sq,Undefined,NQRW,Manhattan,R17N
+,34 St-Hudson Yards - 7,34 St-Hudson Yards,Undefined,7,Manhattan,726N
+,34 St-Penn Station - 123,34 St-Penn Station,Undefined,123,Manhattan,128N
+,34 St-Penn Station - ACE,34 St-Penn Station,Undefined,ACE,Manhattan,A28N
+,36 Av - NW,36 Av,Undefined,NW,Queens,R06N
+,36 St - DNR,36 St,Undefined,DNR,Brooklyn,G20N
+,36 St - MR,36 St,Undefined,MR,Queens,R36N
+,39 Av-Dutch Kills - NW,39 Av-Dutch Kills,Undefined,NW,Queens,R08N
+,4 Av-9 St - FGR,4 Av-9 St,Undefined,FGR,Brooklyn,F23N
+,4 Av-9 St - FGR,4 Av-9 St,Undefined,FGR,Brooklyn,R33N
+,40 St-Lowery St - 7,40 St-Lowery St,Undefined,7,Queens,715N
+,42 St-Bryant Pk - BDFM,42 St-Bryant Pk,Undefined,BDFM,Manhattan,D16N
+,42 St-Port Authority Bus Terminal - ACE,42 St-Port Authority Bus Terminal,Undefined,ACE,Manhattan,A27N
+,45 St - R,45 St,Undefined,R,Brooklyn,R39N
+,46 St - MR,46 St,Undefined,MR,Queens,G18N
+,46 St-Bliss St - 7,46 St-Bliss St,Undefined,7,Queens,714N
+,47-50 Sts-Rockefeller Ctr - BDFM,47-50 Sts-Rockefeller Ctr,Undefined,BDFM,Manhattan,D15N
+,49 St - NRW,49 St,Undefined,NRW,Manhattan,R15N
+,5 Av - 7,5 Av,Undefined,7,Manhattan,724N
+,5 Av/53 St - EM,5 Av/53 St,Undefined,EM,Manhattan,F12N
+,5 Av/59 St - NRW,5 Av/59 St,Undefined,NRW,Manhattan,R13N
+,50 St - 1,50 St,Undefined,1,Manhattan,126N
+,50 St - CE,50 St,Undefined,CE,Manhattan,A25N
+,50 St - D,50 St,Undefined,D,Brooklyn,B14N
+,51 St - 6,51 St,Undefined,6,Manhattan,630N
+,52 St - 7,52 St,Undefined,7,Queens,713N
+,53 St - R,53 St,Undefined,R,Brooklyn,R40N
+,55 St - D,55 St,Undefined,D,Brooklyn,B15N
+,57 St - F,57 St,Undefined,F,Manhattan,B10N
+,57 St-7 Av - NQRW,57 St-7 Av,Undefined,NQRW,Manhattan,R14N
+,59 St - 456,59 St,Undefined,456,Manhattan,629N
+,59 St - NR,59 St,Undefined,NR,Brooklyn,R41N
+,59 St-Columbus Circle - ABCD1,59 St-Columbus Circle,Undefined,ABCD1,Manhattan,A24N
+,59 St-Columbus Circle - ABCD1,59 St-Columbus Circle,Undefined,ABCD1,Manhattan,125N
+,6 Av - L,6 Av,Undefined,L,Manhattan,L02N
+,61 St-Woodside - 7,61 St-Woodside,Undefined,7,Queens,712N
+,62 St - D,62 St,Undefined,D,Brooklyn,B16N
+,63 Dr-Rego Park - MR,63 Dr-Rego Park,Undefined,MR,Queens,G10N
+,65 St - MR,65 St,Undefined,MR,Queens,G15N
+,66 St-Lincoln Center - 1,66 St-Lincoln Center,Undefined,1,Manhattan,124N
+,67 Av - MR,67 Av,Undefined,MR,Queens,G09N
+,68 St-Hunter College - 6,68 St-Hunter College,Undefined,6,Manhattan,628N
+,69 St - 7,69 St,Undefined,7,Queens,711N
+,7 Av-53rd St - DE,7 Av-53rd St,Undefined,DE,Brooklyn,D14N
+,7 Av-9th St - FG,7 Av-9th St,Undefined,FG,Brooklyn,F24N
+,7 Av-Park Pl - BQ,7 Av-Park Pl,Undefined,BQ,Manhattan,D25N
+,71 St - D,71 St,Undefined,D,Brooklyn,B17N
+,72 St - 123,72 St,Undefined,123,Manhattan,123N
+,72 St - BC,72 St,Undefined,BC,Manhattan,A22N
+,72 St - Q,72 St,Undefined,Q,Manhattan,Q03N
+,74 St-Broadway - 7,74 St-Broadway,Undefined,7,Queens,710N
+,75 Av - EF,75 Av,Undefined,EF,Queens,F07N
+,75 St-Elderts Ln - JZ,75 St-Elderts Ln,Undefined,JZ,Queens,J17N
+,77 St - 6,77 St,Undefined,6,Manhattan,627N
+,77 St - R,77 St,Undefined,R,Brooklyn,R43N
+,79 St - 1,79 St,Undefined,1,Manhattan,122N
+,79 St - D,79 St,Undefined,D,Brooklyn,B18N
+,8 Av - L,8 Av,Undefined,L,Manhattan,L01N
+,8 Av - N,8 Av,Undefined,N,Brooklyn,N02N
+,8 St-NYU - RW,8 St-NYU,Undefined,RW,Manhattan,R21N
+,80 St - A,80 St,Undefined,A,Queens,A59N
+,81 St-Museum of Natural History - BC,81 St-Museum of Natural History,Undefined,BC,Manhattan,A21N
+,82 St-Jackson Hts - 7,82 St-Jackson Hts,Undefined,7,Queens,709N
+,85 St-Forest Pkwy - J,85 St-Forest Pkwy,Undefined,J,Queens,J16N
+,86 St - N,86 St,Undefined,N,Brooklyn,N10N
+,86 St-2nd - Q,86 St-2nd,Undefined,Q,Manhattan,Q04N
+,86 St-Broadway - 1,86 St-Broadway,Undefined,1,Manhattan,121N
+,86 St-CPW - BC,86 St-CPW,Undefined,BC,Manhattan,A20N
+,86 St-Lex - 456,86 St-Lex,Undefined,456,Manhattan,626N
+,86th-4th Av - R,86th-4th Av,Undefined,R,Brooklyn,R44N
+,88 St - A,88 St,Undefined,A,Queens,A60N
+,9 Av - D,9 Av,Undefined,D,Brooklyn,B12N
+,90 St-Elmhurst Av - 7,90 St-Elmhurst Av,Undefined,7,Queens,708N
+,96 St - 123,96 St,Undefined,123,Manhattan,120N
+,96 St - 6,96 St,Undefined,6,Manhattan,625N
+,96 St - BC,96 St,Undefined,BC,Manhattan,A19N
+,96 St - Q,96 St,Undefined,Q,Manhattan,Q05N
+,Alabama Av - JZ,Alabama Av,Undefined,JZ,Brooklyn,J24N
+,Allerton Av - 25,Allerton Av,Undefined,25,The Bronx,210N
+,Aqueduct Racetrack - A,Aqueduct Racetrack,Undefined,A,Queens,H01N
+,Aqueduct-N Conduit Av - A,Aqueduct-N Conduit Av,Undefined,A,Queens,H02N
+,Astor Pl - 6,Astor Pl,Undefined,6,Manhattan,636N
+,Astoria Blvd - NW,Astoria Blvd,Undefined,NW,Queens,R03N
+,Astoria-Ditmars Blvd - NW,Astoria-Ditmars Blvd,Undefined,NW,Queens,R01N
+,Atlantic Av - L,Atlantic Av,Undefined,L,Brooklyn,L24N
+,Atlantic Av-Barclays Ctr - 2345,Atlantic Av-Barclays Ctr,Undefined,2345,Brooklyn,235N
+,Atlantic Av-Barclays Ctr - BQ,Atlantic Av-Barclays Ctr,Undefined,BQ,Brooklyn,D24N
+,Atlantic Av-Barclays Ctr - DNR,Atlantic Av-Barclays Ctr,Undefined,DNR,Brooklyn,R31N
+,Avenue H - Q,Avenue H,Undefined,Q,Brooklyn,D32N
+,Avenue I - F,Avenue I,Undefined,F,Brooklyn,F31N
+,Avenue J - Q,Avenue J,Undefined,Q,Brooklyn,D33N
+,Avenue M - Q,Avenue M,Undefined,Q,Brooklyn,D34N
+,Avenue N - F,Avenue N,Undefined,F,Brooklyn,F33N
+,Avenue P - F,Avenue P,Undefined,F,Brooklyn,F34N
+,Avenue U - F,Avenue U,Undefined,F,Brooklyn,F36N
+,Avenue U - N,Avenue U,Undefined,N,Brooklyn,N09N
+,Avenue U - Q,Avenue U,Undefined,Q,Brooklyn,D37N
+,Avenue X - F,Avenue X,Undefined,F,Brooklyn,F38N
+,Bay 50 St - D,Bay 50 St,Undefined,D,Brooklyn,B23N
+,Bay Pkwy - F,Bay Pkwy,Undefined,F,Brooklyn,F32N
+,Bay Pkwy - N,Bay Pkwy,Undefined,N,Brooklyn,N07N
+,Bay Pkwy - U,Bay Pkwy,Undefined,U,Brooklyn,B21N
+,Bay Ridge Av - R,Bay Ridge Av,Undefined,R,Brooklyn,R42N
+,Bay Ridge-95 St - R,Bay Ridge-95 St,Undefined,R,Brooklyn,R45N
+,Baychester Av - 5,Baychester Av,Undefined,5,The Bronx,502N
+,Beach 105 St - AS,Beach 105 St,Undefined,AS,Queens,H14N
+,Beach 25 St - A,Beach 25 St,Undefined,A,Queens,H10N
+,Beach 36 St - A,Beach 36 St,Undefined,A,Queens,H09N
+,Beach 44 St - A,Beach 44 St,Undefined,A,Queens,H08N
+,Beach 60 St - A,Beach 60 St,Undefined,A,Queens,H07N
+,Beach 67 St - A,Beach 67 St,Undefined,A,Queens,H06N
+,Beach 90 St - AS,Beach 90 St,Undefined,AS,Queens,H12N
+,Beach 98 St - AS,Beach 98 St,Undefined,AS,Queens,H13N
+,Bedford Av - L,Bedford Av,Undefined,L,Brooklyn,L08N
+,Bedford Park Blvd - BD,Bedford Park Blvd,Undefined,BD,The Bronx,D03N
+,Bedford Park Blvd-Lehman College - 4,Bedford Park Blvd-Lehman College,Undefined,4,The Bronx,405N
+,Bedford-Nostrand Avs - G,Bedford-Nostrand Avs,Undefined,G,Brooklyn,G33N
+,Bergen St - 23,Bergen St,Undefined,23,Brooklyn,236N
+,Bergen St - FG,Bergen St,Undefined,FG,Brooklyn,F20N
+,Beverly Rd - 25,Beverly Rd,Undefined,25,Brooklyn,245N
+,Beverly Rd - Q,Beverly Rd,Undefined,Q,Brooklyn,D29N
+,Bleecker St - 6,Bleecker St,Undefined,6,Manhattan,637N
+,Borough Hall - 2345,Borough Hall,Borough Hall,2345,Brooklyn,232N
+,Borough Hall - 2345,Borough Hall,Undefined,2345,Brooklyn,423N
+,Botanic Garden - S,Botanic Garden,Undefined,S,Brooklyn,S04N
+,Bowery - JZ,Bowery,Undefined,JZ,Manhattan,M19N
+,Bowling Green - 45,Bowling Green,Undefined,45,Manhattan,420N
+,Briarwood - EF,Briarwood,Undefined,EF,Queens,F05N
+,Brighton Beach - BQ,Brighton Beach,Undefined,BQ,Brooklyn,D40N
+,Broad Channel - AS,Broad Channel,Undefined,AS,Queens,H19N
+,Broad Channel - AS,Broad Channel,Undefined,AS,Queens,H04N
+,Broad St - JZ,Broad St,Undefined,JZ,Manhattan,M23N
+,Broadway - G,Broadway,Undefined,G,Brooklyn,G30N
+,Broadway - NW,Broadway,Undefined,NW,Queens,R05N
+,Broadway Junction - AC,Broadway Junction,Undefined,AC,Brooklyn,A51N
+,Broadway Junction - JZ,Broadway Junction,Undefined,JZ,Brooklyn,J27N
+,Broadway Junction - L,Broadway Junction,Undefined,L,Brooklyn,L22N
+,Broadway-Lafayette St - BDFM,Broadway-Lafayette St,Undefined,BDFM,Manhattan,D21N
+,Bronx Park East - 25,Bronx Park East,Undefined,25,The Bronx,212N
+,Brook Av - 6,Brook Av,Undefined,6,The Bronx,618N
+,Brooklyn Bridge-City Hall - 456,Brooklyn Bridge-City Hall,Undefined,456,Manhattan,640N
+,Buhre Av - 6,Buhre Av,Undefined,6,The Bronx,602N
+,Burke Av - 25,Burke Av,Undefined,25,The Bronx,209N
+,Burnside Av - 4,Burnside Av,Undefined,4,The Bronx,409N
+,Bushwick Av-Aberdeen St - L,Bushwick Av-Aberdeen St,Undefined,L,Brooklyn,L21N
+,Canal St - 1,Canal St,Undefined,1,Manhattan,135N
+,Canal St - 6,Canal St,Undefined,6,Manhattan,639N
+,Canal St - ACE,Canal St,Undefined,ACE,Manhattan,A34N
+,Canal St - JZ,Canal St,Undefined,JZ,Manhattan,M20N
+,Canal St - NQRW,Canal St,Undefined,NQRW,Manhattan,R23N
+,Canal St - NQRW,Canal St,Undefined,NQRW,Manhattan,Q01N
+,Canarsie-Rockaway Pkwy - L,Canarsie-Rockaway Pkwy,Undefined,L,Brooklyn,L29N
+,Carroll St - FG,Carroll St,Undefined,FG,Brooklyn,F21N
+,Castle Hill Av - 6,Castle Hill Av,Undefined,6,The Bronx,607N
+,Cathedral Pkwy (110 St) - 1,Cathedral Pkwy (110 St),Undefined,1,Manhattan,118N
+,Cathedral Pkwy (110 St) - BC,Cathedral Pkwy (110 St),Undefined,BC,Manhattan,A17N
+,Central Av - M,Central Av,Undefined,M,Brooklyn,M10N
+,Central Park North (110 St) - 23,Central Park North (110 St),Undefined,23,Manhattan,227N
+,Chambers St - 123,Chambers St,Undefined,123,Manhattan,137N
+,Chambers St - AC,Chambers St,Undefined,AC,Manhattan,A36N
+,Chambers St - JZ,Chambers St,Undefined,JZ,Manhattan,M21N
+,Chauncey St - JZ,Chauncey St,Undefined,JZ,Brooklyn,J28N
+,Christopher St-Sheridan Sq - 1,Christopher St-Sheridan Sq,Undefined,1,Manhattan,133N
+,Church Av - 25,Church Av,Undefined,25,Brooklyn,244N
+,Church Av - BQ,Church Av,Undefined,BQ,Brooklyn,D28N
+,Church Av - FG,Church Av,Undefined,FG,Brooklyn,F27N
+,City Hall - RW,City Hall,Undefined,RW,Manhattan,R24N
+,Clark St - 23,Clark St,Undefined,23,Brooklyn,231N
+,Classon Av - G,Classon Av,Undefined,G,Brooklyn,G34N
+,Cleveland St - J,Cleveland St,Undefined,J,Brooklyn,J22N
+,Clinton-Washington Avs - CG,Clinton-Washington Avs,Undefined,CG,Brooklyn,G35N
+,Clinton-Washington Avs - CG,Clinton-Washington Avs,Undefined,CG,Brooklyn,A44N
+,Coney Island-Stillwell Av - NDFQ,Coney Island-Stillwell Av,Undefined,NDFQ,Brooklyn,D43N
+,Cortelyou Rd - Q,Cortelyou Rd,Undefined,Q,Brooklyn,D30N
+,Cortlandt St - RW,Cortlandt St,Undefined,RW,Manhattan,R25N
+,Court Sq - 7G,Court Sq,Undefined,7G,Queens,719N
+,Court Sq - 7G,Court Sq,Undefined,7G,Queens,G22N
+,Court Sq-23 St - EM,Court Sq-23 St,Undefined,EM,Queens,F09N
+,Court St - R,Court St,Court St,R,Brooklyn,R28N
+,Crescent St - JZ,Crescent St,Undefined,JZ,Brooklyn,J20N
+,Crown Hts-Utica Av - 34,Crown Hts-Utica Av,Undefined,34,Brooklyn,250N
+,Cypress Av - 6,Cypress Av,Undefined,6,The Bronx,617N
+,Cypress Hills - J,Cypress Hills,Undefined,J,Brooklyn,J19N
+,DeKalb Av - BQR,DeKalb Av,DeKalb Av,BQR,Brooklyn,R30N
+,DeKalb Av - L,DeKalb Av,DeKalb Av,L,Brooklyn,L16N
+,Delancey St-Essex St - FMJZ,Delancey St-Essex St,Undefined,FMJZ,Manhattan,F15N
+,Delancey St-Essex St - FMJZ,Delancey St-Essex St,Undefined,FMJZ,Manhattan,M18N
+,Ditmas Av - F,Ditmas Av,Undefined,F,Brooklyn,F29N
+,Dyckman St - 1,Dyckman St,Undefined,1,Manhattan,109N
+,Dyckman St - A,Dyckman St,Undefined,A,Manhattan,A03N
+,E 143 St-St Mary's St - 6,E 143 St-St Mary's St,Undefined,6,The Bronx,616N
+,E 149 St - 6,E 149 St,Undefined,6,The Bronx,615N
+,E 180 St - 25,E 180 St,Undefined,25,The Bronx,213N
+,East 105 St - L,East 105 St,Undefined,L,Brooklyn,L28N
+,East Broadway - F,East Broadway,Undefined,F,Manhattan,F16N
+,Eastchester-Dyre Av - 5,Eastchester-Dyre Av,Undefined,5,The Bronx,501N
+,Eastern Pkwy-Brooklyn Museum - 23,Eastern Pkwy-Brooklyn Museum,Undefined,23,Brooklyn,238N
+,Elder Av - 6,Elder Av,Undefined,6,The Bronx,611N
+,Elmhurst Av - MR,Elmhurst Av,Undefined,MR,Queens,G13N
+,Euclid Av - AC,Euclid Av,Undefined,AC,Brooklyn,A55N
+,Far Rockaway-Mott Av - A,Far Rockaway-Mott Av,Undefined,A,Queens,H11N
+,Flatbush Av-Brooklyn College - 25,Flatbush Av-Brooklyn College,Undefined,25,Brooklyn,247N
+,Flushing Av - G,Flushing Av,Undefined,G,Brooklyn,G31N
+,Flushing Av - MJ,Flushing Av,Undefined,MJ,Brooklyn,M12N
+,Flushing-Main St - 7,Flushing-Main St,Undefined,7,Queens,701N
+,Fordham Rd - 4,Fordham Rd,Undefined,4,The Bronx,407N
+,Fordham Rd - BD,Fordham Rd,Undefined,BD,The Bronx,D05N
+,Forest Av - M,Forest Av,Undefined,M,Queens,M05N
+,Forest Hills-71 Av - EFRM,Forest Hills-71 Av,Undefined,EFRM,Queens,G08N
+,Fort Hamilton Pkwy - D,Fort Hamilton Pkwy,Undefined,D,Brooklyn,B13N
+,Fort Hamilton Pkwy - FG,Fort Hamilton Pkwy,Undefined,FG,Brooklyn,F26N
+,Fort Hamilton Pkwy - N,Fort Hamilton Pkwy,Undefined,N,Brooklyn,N03N
+,Franklin Av - CS,Franklin Av,Undefined,CS,Brooklyn,S01N
+,Franklin Av - CS,Franklin Av,Undefined,CS,Brooklyn,A45N
+,Franklin Av-Medgar Evers College - 2345,Franklin Av-Medgar Evers College,Undefined,2345,Brooklyn,239N
+,Franklin St - 1,Franklin St,Undefined,1,Manhattan,136N
+,Freeman St - 25,Freeman St,Undefined,25,The Bronx,216N
+,Fresh Pond Rd - M,Fresh Pond Rd,Undefined,M,Queens,M04N
+,Fulton St - 2345AC,Fulton St,Undefined,2345AC,Manhattan,229N
+,Fulton St - 2345AC,Fulton St,Undefined,2345AC,Manhattan,418N
+,Fulton St - 2345AC,Fulton St,Undefined,2345AC,Manhattan,A38N
+,Fulton St-Nassau - JZ,Fulton St-Nassau,Undefined,JZ,Manhattan,M22N
+,Fulton St-S Portland - G,Fulton St-S Portland,Undefined,G,Brooklyn,G36N
+,Gates Av - JZ,Gates Av,Undefined,JZ,Brooklyn,J30N
+,Graham Av - L,Graham Av,Undefined,L,Brooklyn,L11N
+,Grand Army Plaza - 23,Grand Army Plaza,Undefined,23,Brooklyn,237N
+,Grand Av-Newtown - MR,Grand Av-Newtown,Undefined,MR,Queens,G12N
+,Grand Central-42 St - 4567S,Grand Central-42 St,Undefined,4567S,Manhattan,631N
+,Grand Central-42 St - 4567S,Grand Central-42 St,Undefined,4567S,Manhattan,901N
+,Grand Central-42 St - 4567S,Grand Central-42 St,Undefined,4567S,Manhattan,723N
+,Grand St - BD,Grand St,Undefined,BD,Manhattan,D22N
+,Grand St - L,Grand St,Undefined,L,Brooklyn,L12N
+,Grant Av - A,Grant Av,Undefined,A,Brooklyn,A57N
+,Greenpoint Av - G,Greenpoint Av,Undefined,G,Brooklyn,G26N
+,Gun Hill Rd - 25,Gun Hill Rd,Undefined,25,The Bronx,208N
+,Gun Hill Rd - x,Gun Hill Rd,Undefined,x,The Bronx,503N
+,Gun Hill Rd - x,Gun Hill Rd,Undefined,x,The Bronx,503N
+,Halsey St - JZ,Halsey St,Undefined,JZ,Brooklyn,J29N
+,Halsey St - L,Halsey St,Undefined,L,Brooklyn,L19N
+,Harlem-148 St - 3,Harlem-148 St,Undefined,3,Manhattan,301N
+,Hewes St - JM,Hewes St,Undefined,JM,Brooklyn,M14N
+,High St - AC,High St,Undefined,AC,Brooklyn,A40N
+,Houston St - 1,Houston St,Undefined,1,Manhattan,134N
+,Howard Beach-JFK Airport - A,Howard Beach-JFK Airport,Undefined,A,Queens,H03N
+,Hoyt St - 23,Hoyt St,Undefined,23,Brooklyn,233N
+,Hoyt-Schermerhorn Sts - ACG,Hoyt-Schermerhorn Sts,Undefined,ACG,Brooklyn,A42N
+,Hunters Point Av - 7,Hunters Point Av,Undefined,7,Queens,720N
+,Hunts Point Av - 6,Hunts Point Av,Undefined,6,The Bronx,613N
+,Intervale Av - 25,Intervale Av,Undefined,25,The Bronx,218N
+,Inwood-207 St - A,Inwood-207 St,Undefined,A,Manhattan,A02N
+,Jackson Av - 25,Jackson Av,Undefined,25,The Bronx,220N
+,Jackson Hts-Roosevelt Av - EFMR,Jackson Hts-Roosevelt Av,Undefined,EFMR,Queens,G14N
+,Jamaica Center-Parsons/Archer - EJZ,Jamaica Center-Parsons/Archer,Undefined,EJZ,Queens,G05N
+,Jamaica-179 St - F,Jamaica-179 St,Undefined,F,Queens,F01N
+,Jamaica-Van Wyck - E,Jamaica-Van Wyck,Undefined,E,Queens,G07N
+x,Jay St-MetroTech - R,Jay St-MetroTech,Jay St-MetroTech,R,Brooklyn,R29N
+x,Jay St-MetroTech - ACF,Jay St-MetroTech,Jay St-MetroTech,ACF,Brooklyn,A41N
+,Jefferson St - L,Jefferson St,Undefined,L,Brooklyn,L15N
+,Junction Blvd - 7,Junction Blvd,Undefined,7,Queens,707N
+,Junius St - 3,Junius St,Undefined,3,Brooklyn,254N
+,Kew Gardens-Union Tpke - EF,Kew Gardens-Union Tpke,Undefined,EF,Queens,F06N
+,Kings Hwy - BQ,Kings Hwy,Undefined,BQ,Brooklyn,D35N
+,Kings Hwy - F,Kings Hwy,Undefined,F,Brooklyn,F35N
+,Kings Hwy - N,Kings Hwy,Undefined,N,Brooklyn,N08N
+,Kingsbridge Rd - 4,Kingsbridge Rd,Undefined,4,The Bronx,406N
+,Kingsbridge Rd - BD,Kingsbridge Rd,Undefined,BD,The Bronx,D04N
+,Kingston Av - 3,Kingston Av,Undefined,3,Brooklyn,249N
+,Kingston-Throop Avs - C,Kingston-Throop Avs,Undefined,C,Brooklyn,A47N
+,Knickerbocker Av - M,Knickerbocker Av,Undefined,M,Brooklyn,M09N
+,Kosciuszko St - J,Kosciuszko St,Undefined,J,Brooklyn,J31N
+,Lafayette Av - C,Lafayette Av,Undefined,C,Brooklyn,A43N
+,Lexington Av/53 St - EM,Lexington Av/53 St,Undefined,EM,Manhattan,F11N
+,Lexington Av/59 St - NRW,Lexington Av/59 St,Undefined,NRW,Manhattan,R11N
+,Lexington Av/63 St - FQ,Lexington Av/63 St,Undefined,FQ,Manhattan,B08N
+,Liberty Av - C,Liberty Av,Undefined,C,Brooklyn,A52N
+,Livonia Av - L,Livonia Av,Undefined,L,Brooklyn,L26N
+,Longwood Av - 6,Longwood Av,Undefined,6,The Bronx,614N
+,Lorimer St - JM,Lorimer St,Undefined,JM,Brooklyn,M13N
+,Lorimer St - L,Lorimer St,Undefined,L,Brooklyn,L10N
+,Marble Hill-225 St - 1,Marble Hill-225 St,Undefined,1,Manhattan,106N
+,Marcy Av - MJZ,Marcy Av,Undefined,MJZ,Brooklyn,M16N
+,Metropolitan Av - G,Metropolitan Av,Undefined,G,Brooklyn,G29N
+,Mets-Willets Point - 7,Mets-Willets Point,Undefined,7,Queens,702N
+,Middle Village-Metropolitan Av - M,Middle Village-Metropolitan Av,Undefined,M,Queens,M01N
+,Middletown Rd - 6,Middletown Rd,Undefined,6,The Bronx,603N
+,Montrose Av - L,Montrose Av,Undefined,L,Brooklyn,L13N
+,Morgan Av - L,Morgan Av,Undefined,L,Brooklyn,L14N
+,Morris Park - 5,Morris Park,Undefined,5,The Bronx,505N
+,Morrison Av-Soundview - 6,Morrison Av-Soundview,Undefined,6,The Bronx,610N
+,Mosholu Pkwy - 4,Mosholu Pkwy,Undefined,4,The Bronx,402N
+,Mt Eden Av - 4,Mt Eden Av,Undefined,4,The Bronx,411N
+,Myrtle Av - MJZ,Myrtle Av,Undefined,MJZ,Brooklyn,M11N
+,Myrtle-Willoughby Avs - G,Myrtle-Willoughby Avs,Undefined,G,Brooklyn,G32N
+,Myrtle-Wyckoff Avs - LM,Myrtle-Wyckoff Avs,Undefined,LM,Brooklyn,M08N
+,Myrtle-Wyckoff Avs - LM,Myrtle-Wyckoff Avs,Undefined,LM,Brooklyn,L17N
+,Nassau Av - G,Nassau Av,Undefined,G,Brooklyn,G28N
+,Neck Rd - Q,Neck Rd,Undefined,Q,Brooklyn,D38N
+,Neptune Av - F,Neptune Av,Undefined,F,Brooklyn,F39N
+,Nereid Av - 25,Nereid Av,Undefined,25,The Bronx,204N
+,Nevins St - 2345,Nevins St,Undefined,2345,Brooklyn,234N
+,New Lots Av - 3,New Lots Av,Undefined,3,Brooklyn,257N
+,New Lots Av - L,New Lots Av,Undefined,L,Brooklyn,L27N
+,New Utrecht Av - N,New Utrecht Av,Undefined,N,Brooklyn,N04N
+,Newkirk Av-Little Haiti - 25,Newkirk Av-Little Haiti,Undefined,25,Brooklyn,246N
+,Newkirk Plaza - BQ,Newkirk Plaza,Undefined,BQ,Brooklyn,D31N
+,Northern Blvd - MR,Northern Blvd,Undefined,MR,Queens,G16N
+,Norwood Av - JZ,Norwood Av,Undefined,JZ,Brooklyn,J21N
+,Norwood-205 St - D,Norwood-205 St,Undefined,D,The Bronx,D01N
+,Nostrand Av - 3,Nostrand Av,Undefined,3,Brooklyn,248N
+,Nostrand Av - ACE,Nostrand Av,Undefined,ACE,Brooklyn,A46N
+,Ocean Pkwy - Q,Ocean Pkwy,Undefined,Q,Brooklyn,D41N
+,Ozone Park-Lefferts Blvd - A,Ozone Park-Lefferts Blvd,Undefined,A,Queens,A65N
+,Park Place - 23,Park Place,Undefined,23,Manhattan,228N
+,Park Place - S,Park Place,Undefined,S,Brooklyn,S03N
+,Parkchester - 6,Parkchester,Undefined,6,The Bronx,608N
+,Parkside Av - Q,Parkside Av,Undefined,Q,Brooklyn,D27N
+,Parsons Blvd - F,Parsons Blvd,Undefined,F,Queens,F03N
+,Pelham Bay Park - 6,Pelham Bay Park,Undefined,6,The Bronx,601N
+,Pelham Pkwy - 25,Pelham Pkwy,Undefined,25,The Bronx,211N
+,Pelham Pkwy - 25,Pelham Pkwy,Undefined,25,The Bronx,504N
+,Pennsylvania Av - 3,Pennsylvania Av,Undefined,3,Brooklyn,255N
+,President St-Medgar Evers College - 25,President St-Medgar Evers College,Undefined,25,Brooklyn,241N
+,Prince St - RW,Prince St,Undefined,RW,Manhattan,R22N
+,Prospect Av - 25,Prospect Av,Undefined,25,The Bronx,219N
+,Prospect Av - R,Prospect Av,Undefined,R,Brooklyn,R34N
+,Prospect Park - BQS,Prospect Park,Undefined,BQS,Brooklyn,D26N
+,Queens Plaza - EMR,Queens Plaza,Undefined,EMR,Queens,G21N
+,Queensboro Plaza - 7NW,Queensboro Plaza,Undefined,7NW,Queens,718N
+,Queensboro Plaza - NW,Queensboro Plaza,Undefined,NW,Queens,R09N
+,Ralph Av - C,Ralph Av,Undefined,C,Brooklyn,A49N
+,Rector St - 1,Rector St,Undefined,1,Manhattan,139N
+,Rector St - RW,Rector St,Undefined,RW,Manhattan,R26N
+,Rockaway Av - C,Rockaway Av,Undefined,C,Brooklyn,A50N
+,Rockaway Av - W,Rockaway Av,Undefined,W,Brooklyn,253N
+,Rockaway Blvd - A,Rockaway Blvd,Undefined,A,Queens,A61N
+,Rockaway Park-Beach 116 St - AS,Rockaway Park-Beach 116 St,Undefined,AS,Queens,H15N
+,Roosevelt Island - F,Roosevelt Island,Undefined,F,Manhattan,B06N
+,Saratoga Av - 3,Saratoga Av,Undefined,3,Brooklyn,252N
+,Seneca Av - M,Seneca Av,Undefined,M,Queens,M06N
+,Sheepshead Bay - BQ,Sheepshead Bay,Undefined,BQ,Brooklyn,D39N
+,Shepherd Av - C,Shepherd Av,Undefined,C,Brooklyn,A54N
+,Simpson St - 25,Simpson St,Undefined,25,The Bronx,217N
+,Smith-9 Sts - FG,Smith-9 Sts,Undefined,FG,Brooklyn,F22N
+,South Ferry - 1,South Ferry,Undefined,1,Manhattan,142N
+,Spring St - 6,Spring St,Undefined,6,Manhattan,638N
+,Spring St - CE,Spring St,Undefined,CE,Manhattan,A33N
+,St Lawrence Av - 6,St Lawrence Av,Undefined,6,The Bronx,609N
+,Steinway St - RM,Steinway St,Undefined,RM,Queens,G19N
+,Sterling St - 25,Sterling St,Undefined,25,Brooklyn,242N
+,Sutphin Blvd - F,Sutphin Blvd,Undefined,F,Queens,F04N
+,Sutphin Blvd-Archer Av-JFK Airport - EJZ,Sutphin Blvd-Archer Av-JFK Airport,Undefined,EJZ,Queens,G06N
+,Sutter Av - L,Sutter Av,Undefined,L,Brooklyn,L25N
+,Sutter Av-Rutland Rd - 3,Sutter Av-Rutland Rd,Undefined,3,Brooklyn,251N
+,Times Sq-42 St - 123,Times Sq-42 St,Undefined,123,Manhattan,127N
+,Times Sq-42 St - 1237RWS,Times Sq-42 St,Undefined,1237RWS,Manhattan,725N
+,Times Sq-42 St - 1237RWS,Times Sq-42 St,Undefined,1237RWS,Manhattan,902N
+,Times Sq-42 St - NQRW,Times Sq-42 St,Undefined,NQRW,Manhattan,R16N
+,Tremont Av - BD,Tremont Av,Undefined,BD,The Bronx,D07N
+,Union St - R,Union St,Undefined,R,Brooklyn,R32N
+,Utica Av - AC,Utica Av,Undefined,AC,Brooklyn,A48N
+,Van Cortlandt Park-242 st - 1,Van Cortlandt Park-242 st,Undefined,1,The Bronx,101N
+,Van Siclen Av - 3,Van Siclen Av,Undefined,3,Brooklyn,256N
+,Van Siclen Av - C,Van Siclen Av,Undefined,C,Brooklyn,A53N
+,Van Siclen Av - JZ,Van Siclen Av,Undefined,JZ,Brooklyn,J23N
+,Vernon Blvd-Jackson Av - 7,Vernon Blvd-Jackson Av,Undefined,7,Queens,721N
+,W 4 St-Wash Sq - ACE,W 4 St-Wash Sq,Undefined,ACE,Manhattan,A32N
+,W 4 St-Wash Sq - BDFM,W 4 St-Wash Sq,Undefined,BDFM,Manhattan,D20N
+,W 8 St-NY Aquarium - FQ,W 8 St-NY Aquarium,Undefined,FQ,Brooklyn,D42N
+,Wakefield-241 St - 2,Wakefield-241 St,Undefined,2,The Bronx,201N
+,Wall St - 2345,Wall St,Undefined,2345,Manhattan,419N
+,Wall St - 2345,Wall St,Undefined,2345,Manhattan,230N
+,West Farms Sq-E Tremont Av - 25,West Farms Sq-E Tremont Av,Undefined,25,The Bronx,214N
+,West Farms Sq-E Tremont Av - 256,West Farms Sq-E Tremont Av,Undefined,256,The Bronx,604N
+,Whitehall St-South Ferry - RW,Whitehall St-South Ferry,Undefined,RW,Manhattan,R27N
+,Whitlock Av - 6,Whitlock Av,Undefined,6,The Bronx,612N
+,Wilson Av - L,Wilson Av,Undefined,L,Brooklyn,L20N
+,Winthrop St - 25,Winthrop St,Undefined,25,Brooklyn,243N
+,Woodhaven Blvd - JZ,Woodhaven Blvd,Undefined,JZ,Queens,J15N
+,Woodhaven Blvd - RM,Woodhaven Blvd,Undefined,RM,Queens,G11N
+,Woodlawn - 4,Woodlawn,Undefined,4,The Bronx,401N
+,World Trade Center - E,World Trade Center,Undefined,E,Manhattan,E01N
+,WTC Cortlandt - 1,WTC Cortlandt,Undefined,1,Manhattan,138N
+,York St - F,York St,Undefined,F,Brooklyn,F18N
+,Zerega Av - 6,Zerega Av,Undefined,6,The Bronx,606N
