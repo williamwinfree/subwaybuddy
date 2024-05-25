@@ -31,7 +31,7 @@ A note on protobuf-to-dict if using Python3: several lines have deprecated refer
 
 ## Selecting Your Station:
 
-Open the "stopcrosswalk.csv" file and add an 'x' in the left-most column next to the station you would like the matrix to display. It is defaulted to Jay Street Metrotech, so make sure you remove the "x" next to this stop before saving. Some stations have more than one train group that go through them (e.g. Jay Street Metrotech). You can select up to 4 different train groups per station.
+Open the "stopcrosswalk.csv" file and add an "x" in the left-most column next to the station you would like the matrix to display. It is defaulted to Jay Street Metrotech, so make sure you remove the "x" next to this stop before saving. Some stations have more than one train group that go through them (e.g. Jay Street Metrotech). You can select up to 4 different train groups per station.
 
 You can adjust the time cutoff for trains in both the mta.py and/or the mta_no_matrix.py files. The lower bound "walk" will prevent the tracker from showing trains coming sooner than the value you enter and the upperbound "cutoff" excludes trains above the value you enter.
 
