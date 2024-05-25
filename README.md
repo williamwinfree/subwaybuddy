@@ -1,9 +1,7 @@
 # subwaybud
-## An RGB Matrix MTA Tracker for Raspberry Pi
 
-# Initial Setup
 
-## Hardware
+# Initial Setup & Hardware
 
 -Raspberry Pi Zero to 4 (RGB Matrix Library not currently compatible with RasPi 5); best results when run headless
 
