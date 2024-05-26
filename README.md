@@ -1,4 +1,4 @@
-# subwaybud
+# subwaybuddy
 
 
 # Initial Setup & Hardware
