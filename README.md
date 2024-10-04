@@ -13,7 +13,8 @@
 
 ## Packages to install
 
-	sudo apt-get install git
+	sudo apt-get update
+ 	sudo apt-get install git
 	sudo apt-get install libavformat-dev
 	sudo apt-get install graphicsmagick-libmagick-dev-compat
 	sudo apt-get install libswscale-dev
