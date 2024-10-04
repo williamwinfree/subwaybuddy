@@ -62,11 +62,11 @@ Select: Convenience or Quality (Quality if Soldered)
 
 In /rpi-rgb-led-matrix:
 	
-	-make all
+	make all
 
 In /rpi-rgb-led-matrix/utils:
 	
- 	-make all
+ 	make all
 
 # Text Scroller Test: Make Sure Matrix is Working
 
