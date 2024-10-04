@@ -17,14 +17,18 @@
 	sudo apt-get install libavformat-dev
 	sudo apt-get install graphicsmagick-libmagick-dev-compat
 	sudo apt-get install libswscale-dev
+ 	sudo apt-get install libopenblas-dev
 	sudo apt install python3-pip
 	sudo pip3 install schedule --break-system-packages
 	sudo pip3 install gtfs-realtime-bindings --break-system-packages
 	sudo pip3 install protobuf-to-dict --break-system-packages
 	sudo pip3 install pandas --break-system-packages
 	sudo pip3 install pillow --break-system-packages
+ 
 
-A note on protobuf-to-dict if using Python3: several lines have deprecated references and need to be changed. Open protobuf-to-dict.py in your site packages folder and between lines 12-27 change all "long" to "int" and change "unicode" on line 25 to "str".
+A note on protobuf-to-dict if using Python3: several lines have deprecated references and need to be changed. Open protobuf-to-dict.py in your site packages folder and between lines 12-27 change all "long" to "int" and change "unicode" on line 25 to "str". Typical location for editing:
+
+	sudo nano /usr/local/lib/python3.11/dist-packages/protobuf_to_dict.py
 
 
 ## Selecting Your Station:
